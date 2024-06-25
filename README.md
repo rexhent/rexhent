@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![rexhent Nuxter profile](https://nuxters.nuxt.com/card/rexhent/og.png)](https://nuxters.nuxt.com/rexhent)
 <!--
 **rexhent/rexhent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
